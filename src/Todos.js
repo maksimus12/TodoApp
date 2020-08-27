@@ -1,7 +1,14 @@
-import React, { Component } from 'react';
+import React from 'react';
+import TodoRender from './TodoRender';
 
-const Todos = ({ toDoList }) => {
-	return <div>{toDoList.map((todo) => <div> {todo.content}</div>)}</div>;
+export const Todos = ({ vewTodo, deleteTodo }) => {
+	return (
+		<div>
+			{vewTodo.map((todos) => (
+				<TodoRender name={todos.name} id={todos.id} key={todos.id} deleteTodo={deleteTodo} />
+			))}
+		</div>
+	);
 };
 
 export default Todos;

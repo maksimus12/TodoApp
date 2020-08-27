@@ -1,7 +1,11 @@
 body {
-  background-color: #2d4059;
+	background-color: #2d4059;
 }
 
-h1{
-  text-align: center;
+h1 {
+	padding: 5px;
+}
+
+.no-todo {
+	padding: 10px;
 }
