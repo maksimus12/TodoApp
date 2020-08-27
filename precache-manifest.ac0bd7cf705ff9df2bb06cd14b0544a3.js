@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13424d9fc85eba73b4c10945091f0eb3",
+    "revision": "8f2f8550f0ceb676d817a0c232781b7d",
     "url": "/http//maksimus12.github.io/todoapp/index.html"
   },
   {
-    "revision": "437b2c4ffac1539d6e3b",
+    "revision": "660e01d3ee3c2fe9a4bd",
     "url": "/http//maksimus12.github.io/todoapp/static/css/main.8d5d6d4c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/http//maksimus12.github.io/todoapp/static/js/2.19cce4f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "437b2c4ffac1539d6e3b",
-    "url": "/http//maksimus12.github.io/todoapp/static/js/main.5b41e825.chunk.js"
+    "revision": "660e01d3ee3c2fe9a4bd",
+    "url": "/http//maksimus12.github.io/todoapp/static/js/main.364fc43b.chunk.js"
   },
   {
     "revision": "84775e6fd0e8f47f1448",
