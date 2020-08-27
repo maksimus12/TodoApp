@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/http//%20maksimus12.github.io/todoapp/static/css/main.03cf6968.chunk.css",
-    "main.js": "/http//%20maksimus12.github.io/todoapp/static/js/main.3b5fa716.chunk.js",
-    "main.js.map": "/http//%20maksimus12.github.io/todoapp/static/js/main.3b5fa716.chunk.js.map",
-    "runtime-main.js": "/http//%20maksimus12.github.io/todoapp/static/js/runtime-main.ce1ee41b.js",
-    "runtime-main.js.map": "/http//%20maksimus12.github.io/todoapp/static/js/runtime-main.ce1ee41b.js.map",
-    "static/js/2.6f680aff.chunk.js": "/http//%20maksimus12.github.io/todoapp/static/js/2.6f680aff.chunk.js",
-    "static/js/2.6f680aff.chunk.js.map": "/http//%20maksimus12.github.io/todoapp/static/js/2.6f680aff.chunk.js.map",
-    "index.html": "/http//%20maksimus12.github.io/todoapp/index.html",
-    "precache-manifest.83fdbf22a123b718637ddfb90bc63b28.js": "/http//%20maksimus12.github.io/todoapp/precache-manifest.83fdbf22a123b718637ddfb90bc63b28.js",
-    "service-worker.js": "/http//%20maksimus12.github.io/todoapp/service-worker.js",
-    "static/css/main.03cf6968.chunk.css.map": "/http//%20maksimus12.github.io/todoapp/static/css/main.03cf6968.chunk.css.map",
-    "static/js/2.6f680aff.chunk.js.LICENSE.txt": "/http//%20maksimus12.github.io/todoapp/static/js/2.6f680aff.chunk.js.LICENSE.txt"
+    "main.css": "/http//maksimus12.github.io/todoapp/static/css/main.8d5d6d4c.chunk.css",
+    "main.js": "/http//maksimus12.github.io/todoapp/static/js/main.5b41e825.chunk.js",
+    "main.js.map": "/http//maksimus12.github.io/todoapp/static/js/main.5b41e825.chunk.js.map",
+    "runtime-main.js": "/http//maksimus12.github.io/todoapp/static/js/runtime-main.971878ab.js",
+    "runtime-main.js.map": "/http//maksimus12.github.io/todoapp/static/js/runtime-main.971878ab.js.map",
+    "static/js/2.19cce4f2.chunk.js": "/http//maksimus12.github.io/todoapp/static/js/2.19cce4f2.chunk.js",
+    "static/js/2.19cce4f2.chunk.js.map": "/http//maksimus12.github.io/todoapp/static/js/2.19cce4f2.chunk.js.map",
+    "index.html": "/http//maksimus12.github.io/todoapp/index.html",
+    "precache-manifest.a3bc596d80fe87a68d6548d6b233f90b.js": "/http//maksimus12.github.io/todoapp/precache-manifest.a3bc596d80fe87a68d6548d6b233f90b.js",
+    "service-worker.js": "/http//maksimus12.github.io/todoapp/service-worker.js",
+    "static/css/main.8d5d6d4c.chunk.css.map": "/http//maksimus12.github.io/todoapp/static/css/main.8d5d6d4c.chunk.css.map",
+    "static/js/2.19cce4f2.chunk.js.LICENSE.txt": "/http//maksimus12.github.io/todoapp/static/js/2.19cce4f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce1ee41b.js",
-    "static/js/2.6f680aff.chunk.js",
-    "static/css/main.03cf6968.chunk.css",
-    "static/js/main.3b5fa716.chunk.js"
+    "static/js/runtime-main.971878ab.js",
+    "static/js/2.19cce4f2.chunk.js",
+    "static/css/main.8d5d6d4c.chunk.css",
+    "static/js/main.5b41e825.chunk.js"
   ]
 }
